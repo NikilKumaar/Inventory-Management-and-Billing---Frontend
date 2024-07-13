@@ -1,6 +1,6 @@
 # Inventory Management And Billing App - FrontEnd
 
-### [Live Server](https://inventorymanagementandbilling.netlify.app/)
+### [LIVE SERVER](https://inventorymanagementandbilling.netlify.app/)
 
 ## Demo Account : 
 
